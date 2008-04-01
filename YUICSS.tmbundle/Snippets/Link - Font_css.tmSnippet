@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/${1:2.5.0}/build/fonts/fonts-min.css"&gt; </string>
+	<key>name</key>
+	<string>Link - Font.css</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>yl</string>
+	<key>uuid</key>
+	<string>B10317AE-846D-4F33-967C-3CC6F6997634</string>
+</dict>
+</plist>

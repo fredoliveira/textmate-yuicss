@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/${1:2.5.0}/build/grids/grids-min.css"&gt; </string>
+	<key>name</key>
+	<string>Link - Grid.css</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>yl</string>
+	<key>uuid</key>
+	<string>29FDDD5A-F0C1-49E2-9798-877AAEB62186</string>
+</dict>
+</plist>

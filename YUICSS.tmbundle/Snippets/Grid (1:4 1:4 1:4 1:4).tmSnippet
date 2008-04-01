@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="yui-g"&gt;
+	&lt;div class="yui-g first"&gt;
+		&lt;div class="yui-u first"&gt;
+			$1
+		&lt;/div&gt;
+		&lt;div class="yui-u"&gt;
+			$2
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class="yui-g"&gt;
+		&lt;div class="yui-u first"&gt;
+			$3
+		&lt;/div&gt;
+		&lt;div class="yui-u"&gt;
+			$4
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;</string>
+	<key>name</key>
+	<string>Grid (1/4 1/4 1/4 1/4)</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>ygg</string>
+	<key>uuid</key>
+	<string>C813444B-5917-4EF6-ABFD-8D2F23519E28</string>
+</dict>
+</plist>

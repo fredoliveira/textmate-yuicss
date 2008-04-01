@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>55030AD8-F679-4B96-9EA4-59FC36C2FC66</string>
+			<string>34FC2B07-2B72-4F16-ABB7-EA56613911DD</string>
+			<string>D7BE5884-3957-4C7F-82B8-5E21E989B8AC</string>
+			<string>------------------------------------</string>
+			<string>22293DE3-975E-4494-930A-B07581A3283C</string>
+			<string>541C1F55-FAD7-47FA-8F55-7B729E5A535A</string>
+			<string>6C5FFC11-00EC-44DE-AE2C-AE2BE16A7503</string>
+			<string>69D390D2-1409-4840-9187-38B6E42596EC</string>
+			<string>------------------------------------</string>
+			<string>4327B94E-3FC6-44B4-A084-421069AB8A82</string>
+			<string>C813444B-5917-4EF6-ABFD-8D2F23519E28</string>
+			<string>40111302-6B36-48B9-81B3-F113B0C8BCCC</string>
+			<string>A3BCC208-6682-40AD-8214-7563B3A38FBF</string>
+			<string>AB96C5A1-475E-4CD4-B365-1D316D9D4803</string>
+			<string>8C30D93D-AA0A-4F5E-ABEE-63089691A002</string>
+			<string>------------------------------------</string>
+			<string>557E3C1C-7FA0-4680-95DF-4C1588A4622D</string>
+			<string>29FDDD5A-F0C1-49E2-9798-877AAEB62186</string>
+			<string>B10317AE-846D-4F33-967C-3CC6F6997634</string>
+			<string>0499DF2B-4A02-4BF0-83AA-8FD872C1B87E</string>
+		</array>
+		<key>submenus</key>
+		<dict/>
+	</dict>
+	<key>name</key>
+	<string>YUI CSS</string>
+	<key>ordering</key>
+	<array>
+		<string>55030AD8-F679-4B96-9EA4-59FC36C2FC66</string>
+		<string>22293DE3-975E-4494-930A-B07581A3283C</string>
+		<string>541C1F55-FAD7-47FA-8F55-7B729E5A535A</string>
+		<string>6C5FFC11-00EC-44DE-AE2C-AE2BE16A7503</string>
+		<string>69D390D2-1409-4840-9187-38B6E42596EC</string>
+		<string>34FC2B07-2B72-4F16-ABB7-EA56613911DD</string>
+		<string>4327B94E-3FC6-44B4-A084-421069AB8A82</string>
+		<string>C813444B-5917-4EF6-ABFD-8D2F23519E28</string>
+		<string>40111302-6B36-48B9-81B3-F113B0C8BCCC</string>
+		<string>A3BCC208-6682-40AD-8214-7563B3A38FBF</string>
+		<string>AB96C5A1-475E-4CD4-B365-1D316D9D4803</string>
+		<string>8C30D93D-AA0A-4F5E-ABEE-63089691A002</string>
+		<string>D7BE5884-3957-4C7F-82B8-5E21E989B8AC</string>
+		<string>557E3C1C-7FA0-4680-95DF-4C1588A4622D</string>
+		<string>29FDDD5A-F0C1-49E2-9798-877AAEB62186</string>
+		<string>B10317AE-846D-4F33-967C-3CC6F6997634</string>
+		<string>0499DF2B-4A02-4BF0-83AA-8FD872C1B87E</string>
+	</array>
+	<key>uuid</key>
+	<string>CA45D493-70E4-424D-9BE7-F7620FCDE1E0</string>
+</dict>
+</plist>
