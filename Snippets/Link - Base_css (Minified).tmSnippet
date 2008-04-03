@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/${1:2.5.1}/build/fonts/fonts-min.css"&gt; </string>
+	<string>&lt;link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/${1:2.5.1}/build/base/base-min.css"&gt; </string>
 	<key>name</key>
-	<string>Link - Font.css (Minified)</string>
+	<string>Link - Base.css (Minified)</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
 	<string>yl</string>
 	<key>uuid</key>
-	<string>B10317AE-846D-4F33-967C-3CC6F6997634</string>
+	<string>FED718AD-8CAB-4E0F-8B99-B2C501FCBB3C</string>
 </dict>
 </plist>

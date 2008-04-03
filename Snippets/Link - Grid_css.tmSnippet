@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/${1:2.5.0}/build/grids/grids-min.css"&gt; </string>
+	<string>&lt;link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/${1:2.5.1}/build/grids/grids-min.css"&gt; </string>
 	<key>name</key>
-	<string>Link - Grid.css</string>
+	<string>Link - Grid.css (Minified)</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
