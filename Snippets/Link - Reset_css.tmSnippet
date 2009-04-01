@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/${1:2.5.1}/build/reset/reset-min.css"&gt; </string>
+	<string>&lt;link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/${1:2.7.0}/build/reset/reset-min.css"&gt; </string>
 	<key>name</key>
 	<string>Link - Reset.css (Minified)</string>
 	<key>scope</key>
